@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  background-color: #0f172a;
+flex-wrap: wrap;
+  height: 676px;
+  width: 100vw;
+  flex-wrap: wrap;
+}
+img {
+  margin: 204px 39.67px 24px 120px;
+  width: 373.33px;
+  height: 240px;
+}
+.textarea {
+  margin: 0px 0px 100px 120px;
+  width: 369.33px;
+  height: 108px;
+  color: #ffffff;
+
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: "Avenir";
+}
+.card3 {
+  margin-left: 39.67px;
+}
